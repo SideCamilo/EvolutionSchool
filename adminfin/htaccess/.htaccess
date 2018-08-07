@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile "/home/evolutionschoolc/.htpasswds/public_html/evolution/admin/passwd"
+require valid-user
